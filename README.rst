@@ -129,7 +129,7 @@ To reactivate the virtual environment later, simply run:
 
     $ source ./env/bin/activate
 
-Note that you can also patch ``activate`` to set ``LD_LIBRRY_PATH``. For this, add:
+Note that you can also patch ``activate`` to set ``LD_LIBRARY_PATH``. For this, add:
 
 .. code-block:: bash
 
